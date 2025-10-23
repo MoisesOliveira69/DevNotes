@@ -21,7 +21,7 @@ Bloco de notas moderno feito com React. Permite criar notas com título, conteú
 ## 📦 Instalação
 
 ```bash
-git clone https://github.com/MoisesOliveira59/devnotes.git
+git clone https://github.com/MoisesOliveira69/DevNotes.git
 cd devnotes
 npm install
 npm start
